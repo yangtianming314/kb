@@ -1,10 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [服饰](first-question.md)
-  * 功能服饰
-* [How can I do X?](second-question.md)
-* [article\_test1](articletest1.md)
-
-
+* [服装](clothing.md)
+  * [防弹服装](clothing/bulletproof-clothing.md)
+  * [防水服装](clothing/waterproof-clothing.md)
 
